@@ -1,0 +1,15 @@
+.apple{
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+}
+
+.link:hover{
+    cursor: pointer;
+    text-decoration: underline;
+
+}
